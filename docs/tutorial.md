@@ -1,6 +1,6 @@
 # Tutorial of using Fabric SDK
 
-**Notice: The tutorial is still in-progress, and example code can be found at [e2e_test.py](test/integration/e2e_test.py).**
+**Notice: The tutorial is still in-progress, and example code can be found at [e2e_test.py](https://github.com/hyperledger/fabric-sdk-py/blob/master/test/integration/e2e_test.py).**
 
 ## 0. Pre-requisites
 
